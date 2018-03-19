@@ -38,3 +38,10 @@ code {
   font-size: 80%;
 }
 .image1 { display: block; margin-left: auto; margin-right: auto; }
+#dw-article-toc-body {  margin:0 auto;
+  background:#9dc0f9 url("s1200.jpg")repeat-y scroll;
+  background-attachment:scroll;
+  background-size: 100%;
+  width: 100%;
+  height: 100%;
+}
